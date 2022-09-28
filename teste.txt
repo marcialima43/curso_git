@@ -1,2 +1,3 @@
 Aprendendo comandos git
 Novos comandos sendo introduzidos
+Aula sobre atualizar repositório local.
